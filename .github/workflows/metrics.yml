@@ -34,7 +34,7 @@ jobs:
           plugin_notable: yes
           plugin_notable_from: user
           plugin_notable_repositories: yes
-          plugin_notable_types: commit,pull_request
+          plugin_notable_types: pull_request
           plugin_people: yes
           plugin_people_limit: 14
           plugin_people_shuffle: yes
