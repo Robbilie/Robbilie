@@ -16,7 +16,7 @@ jobs:
           user: Robbilie
           template: classic
           base: header
-          repositories_skipped: "@ValtechMobility/charts, @volkswagen-onehub/audi-myaudi-onehub-versions, @volkswagen-onehub/audi-feature-app-setup-assistant"
+          repositories_skipped: "ValtechMobility/charts, volkswagen-onehub/audi-myaudi-onehub-versions, volkswagen-onehub/audi-feature-app-setup-assistant"
           debug: yes
           debug_print: yes
           plugins_errors_fatal: yes
