@@ -33,6 +33,7 @@ jobs:
           plugin_languages_threshold: 0%
           plugin_notable: yes
           plugin_notable_from: all
+          plugin_notable_skipped: "@ValtechMobility/charts, @volkswagen-onehub/audi-myaudi-onehub-versions, @volkswagen-onehub/audi-feature-app-setup-assistant"
           plugin_notable_repositories: yes
           plugin_notable_types: commit,pull_request
           plugin_people: yes
