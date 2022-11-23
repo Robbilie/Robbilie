@@ -16,7 +16,7 @@ jobs:
           user: Robbilie
           template: classic
           base: header
-          repositories_skipped: "ValtechMobility/jnlp-agent-jdk11, ValtechMobility/jnlp-agent-jdk8, ValtechMobility/jnlp-agent-node-chromium, ValtechMobility/jnlp-agent-kaniko, ValtechMobility/jnlp-agent-dind-aws, ValtechMobility/jnlp-agent-node, ValtechMobility/charts, ValtechMobility/github-team-sync, volkswagen-onehub/audi-myaudi-onehub-versions, volkswagen-onehub/audi-feature-app-setup-assistant"
+          repositories_skipped: "ValtechMobility/jnlp-agent-jdk11, ValtechMobility/jnlp-agent-android, ValtechMobility/jnlp-agent-jdk8, ValtechMobility/jnlp-agent-node-chromium, ValtechMobility/jnlp-agent-kaniko, ValtechMobility/jnlp-agent-dind-aws, ValtechMobility/jnlp-agent-node, ValtechMobility/charts, ValtechMobility/github-team-sync, volkswagen-onehub/audi-myaudi-onehub-versions, volkswagen-onehub/audi-feature-app-setup-assistant"
           debug: yes
           debug_print: yes
           plugins_errors_fatal: yes
